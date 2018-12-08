@@ -1,2 +1,4 @@
-# machine_learning
-udacity course ud120 solutions
+ud120-projects
+==============
+
+Starter project code for students taking Udacity ud120
